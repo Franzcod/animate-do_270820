@@ -1,14 +1,16 @@
 # Ejemplo Package Animate_do
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-[![Generic badge](https://img.shields.io/badge/Linkedin-Palacios-blue.svg)](https://www.linkedin.com/in/francisco-palacios1989/)
-
-[![GitHub Franzcod](https://img.shields.io/github/followers/Franzcod?label=follow&style=social)](https://github.com/Franzcod)
-
-[![website](https://img.shields.io/badge/Portfolio_Website-2648ff?style=flat-square&logo=google-chrome)](https://fpalacios.com.ar/)
+<div align="center">
+  
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)  ___________________    [![Generic badge](https://img.shields.io/badge/Linkedin-Palacios-blue.svg)](https://www.linkedin.com/in/francisco-palacios1989/)
 
 
-![anim](https://user-images.githubusercontent.com/53352272/91621559-c558f200-e969-11ea-841e-2143649defbf.jpg)
+
+[![GitHub Franzcod](https://img.shields.io/github/followers/Franzcod?label=follow&style=social)](https://github.com/Franzcod) ___________________ [![website](https://img.shields.io/badge/Portfolio_Website-2648ff?style=flat-square&logo=google-chrome)](https://fpalacios.com.ar/)
+</div>
+
+
+
+![ll](https://user-images.githubusercontent.com/53352272/91639624-4eb20800-e9ee-11ea-81a7-b89732f16082.jpg)
 
 <div align="center">
 
